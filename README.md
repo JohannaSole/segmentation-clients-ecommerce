@@ -13,11 +13,12 @@ La mission principale est ensuite de réaliser une segmentation client utilisée
 - Proposition d’une fréquence de mise à jour de la segmentation pour garantir sa pertinence  
 - Préparation des livrables pour validation et présentation auprès de l’équipe  
 
-## Données
+## 📂 Données
 
 Les données anonymisées fournies par Olist contiennent l’historique des commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 
-Ces données sont accessibles sur Kaggle via le jeu de données *Brazilian E-commerce*.
+Elles sont disponibles librement sur Kaggle :  
+👉 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Méthodes utilisées
 
